@@ -1,9 +1,13 @@
 # A&E Inpatient Clustering Using K-Prototypes for Length of Stay Analysis: A Comparative Study Before and After COVID-19
 
 **Author:** Yi-Chun Huang
+
 **Degree:** Master of Science in Data Science
+
 **Supervisor:** Dr. Nicola Rennie
+
 **School:** School of Computing and Communications, Lancaster University
+
 **Date:** September, 2023
 
 ## Abstract
