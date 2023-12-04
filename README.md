@@ -190,27 +190,74 @@ The study recommends action points for the NHS, including establishing a Rapid A
 The COVID-19 pandemic has led to operational challenges, demanding adaptations in healthcare processes and resource allocation. These findings contribute to understanding the broader impact of the pandemic on healthcare systems.
 
 ## References
+[1] Bahrmann, Anke et al. (2019). “The Charlson Comorbidity and Barthel Index predict length of hospital stay, mortality, cardiovascular mortality and rehospitalization in unselected older patients admitted to the emergency department”. In: Aging Clinical and Experimental Research 31, pp. 1233–1242.
 
-1. Bahrmann, Anke et al. (2019). “The Charlson Comorbidity and Barthel Index predict length of hospital stay, mortality, cardiovascular mortality and rehospitalization in unselected older patients admitted to the emergency department”. *Aging Clinical and Experimental Research*, 31, 1233–1242.
+[2] Benesty, Jacob, Jingdong Chen, and Yiteng Huang (2008). “On the importance of the Pearson correlation coefficient in noise reduction”. In: IEEE Transactions on Audio, Speech, and Language Processing 16.4, pp. 757–765.
 
-2. Benesty, Jacob, Jingdong Chen, and Yiteng Huang (2008). “On the importance of the Pearson correlation coefficient in noise reduction”. *IEEE Transactions on Audio, Speech, and Language Processing*, 16(4), 757–765.
+[3] Buttigieg, Sandra C, Lorraine Abela, and Adriana Pace (2018). “Variables affecting hospital length of stay: a scoping review”. In: Journal of health organization and management 32.3, pp. 463–493.
 
-3. Buttigieg, Sandra C, Lorraine Abela, and Adriana Pace (2018). “Variables affecting hospital length of stay: a scoping review”. *Journal of health organization and management*, 32(3), 463–493.
+[4] Chaturvedi, Anil, Paul E Green, and J Douglas Caroll (2001). “K-modes clustering”. In: Journal of classification 18, pp. 35–55.
 
-4. Chaturvedi, Anil, Paul E Green, and J Douglas Caroll (2001). “K-modes clustering”. *Journal of classification*, 18, 35–55.
+[5] Chudasama, Yogini V, Kamlesh Khunti, and Melanie J Davies (2021). “Clustering of comorbidities”. In: Future Healthcare Journal 8.2, e224.
 
-5. Chudasama, Yogini V, Kamlesh Khunti, and Melanie J Davies (2021). “Clustering of comorbidities”. *Future Healthcare Journal*, 8(2), e224.
+[6] Cohen, Israel et al. (2009). “Pearson correlation coefficient”. In: Noise reduction in speech processing, pp. 1–4.
 
-6. Cohen, Israel et al. (2009). “Pearson correlation coefficient”. In: *Noise reduction in speech processing*, 1–4.
+[7] Daghistani, Tahani A et al. (2019). “Predictors of in-hospital length of stay among cardiac patients: a machine learning approach”. In: International journal of cardiology 288, pp. 140–147.
 
-7. Daghistani, Tahani A et al. (2019). “Predictors of in-hospital length of stay among cardiac patients: a machine learning approach”. *International journal of cardiology*, 288, 140–147.
+[8] El-Darzi, Elia et al. (2009). “Length of stay-based clustering methods for patient grouping”. In: Intelligent patient management, pp. 39–56.
 
-8. El-Darzi, Elia et al. (2009). “Length of stay-based clustering methods for patient grouping”. In: *Intelligent patient management*, 39–56.
+[9] Dickson, Jon M, Suzanne M Mason, and Andy Bailey (2017). “Emergency department diagnostic codes: useful data?” In: Emergency Medicine Journal.
 
-9. Dickson, Jon M, Suzanne M Mason, and Andy Bailey (2017). “Emergency department diagnostic codes: useful data?” *Emergency Medicine Journal*.
+[10] Disser, Nathaniel P et al. (2020). “Musculoskeletal consequences of COVID-19”. In: The Journal of bone and joint surgery. American volume 102.14, p. 1197.
 
-10. Disser, Nathaniel P et al. (2020). “Musculoskeletal consequences of COVID-19”. *The Journal of bone and joint surgery. American volume*, 102(14), 1197.
+[11] Freitas, Alberto et al. (2012). “Factors influencing hospital high length of stay outliers”. In: BMC health services research 12, pp. 1–10.
 
-11. Freitas, Alberto et al. (2012). “Factors influencing hospital high length of stay outliers”. *BMC health services research*, 12, 1–10.
+[12] Gong, Xuran et al. (2022). “Managing hospital inpatient beds under clustered overflow configuration”. In: Computers & Operations Research 148, p. 106021.
 
-12. Gong, Xuran et al. (2022). “Managing hospital inpatient beds under clustered overflow configuration”. *Computers & Operations Research*, 148, 106021.
+[13] Hartigan, John A and Manchek A Wong (1979). “Algorithm AS 136: A k-means clustering algorithm”. In: Journal of the royal statistical society. series c (applied statistics) 28.1, pp. 100–108.
+
+[14] Hassan, Mahmud et al. (2010). “Hospital length of stay and probability of acquiring infection”. In: International Journal of pharmaceutical and healthcare marketing 4.4, pp. 324–338.
+
+[15] Higgins, Thomas L et al. (2003). “Early indicators of prolonged intensive care unit stay: Impact of illness severity, physician staffing, and pre–intensive care unit length of stay”. In: Critical care medicine 31.1, pp. 45–51.
+
+[16] Huang, Z. (1997). “Clustering Large Data Sets with Mixed Numeric and Categorical Values”. In: Proceedings of the 1st Pacific-Asia Conference on Knowledge Discovery and Data Mining, (PAKDD), pp. 21–34.
+
+[17] Iwase, Shinya et al. (2022). “Prediction algorithm for ICU mortality and length of stay using machine learning”. In: Scientific reports 12.1, p. 12912.
+
+[18] Klein, Rudolf (2004). The first wave of NHS foundation trusts.
+
+[19] Lauks, Juliane et al. (2016). “Medical team evaluation: effect on emergency department waiting time and length of stay”. In: PloS one 11.4, e0154372.
+
+[20] Liu, Yingxin, Mike Phillips, and Jim Codde (2001). “Factors influencing patients’ length of stay”. In: Australian Health Review 24.2, pp. 63–70.
+
+[21] McDermott, Christopher and Gregory N Stock (2007). “Hospital operations and length of stay performance”. In: International Journal of Operations & Production Management 27.9, pp. 1020–1042.
+
+[22] Mentzoni, Ida, Stig Tore Bogstrand, and Kashif Waqar Faiz (2019). “Emergency department crowding and length of stay before and after an increased catchment area”. In: BMC health services research 19, pp. 1–11.
+
+[23] Moisoglou, Ioannis et al. (2019). “Nursing staff and patients’ length of stay”. In: International Journal of Health Care Quality Assurance 32.6, pp. 1004–1012.
+
+[24] Ogbuabor, Godwin and FN Ugwoke (2018). “Clustering algorithm for a healthcare dataset using silhouette score value”. In: Int. J. Comput. Sci. Inf. Technol 10.2, pp. 27–37.
+
+[25] Panchami, VU and N Radhika (2014). “A novel approach for predicting the length of hospital stay with DBSCAN and supervised classification algorithms”. In: The Fifth International Conference on the Applications of Digital Information and Web Technologies (ICADIWT 2014). IEEE, pp. 207–212.
+
+[26] Qualls, Munirih, Daniel J Pallin, and Jeremiah D Schuur (2010). “Parametric versus nonparametric statistical tests: the length of stay example”. In: Academic Emergency Medicine 17.10, pp. 1113–1121.
+
+[27] Quan, Hude et al. (2005). “Coding algorithms for defining comorbidities in ICD-9-CM and ICD-10 administrative data”. In: Medical care, pp. 1130–1139.
+
+[28] Ramani, Santhoshini Leela et al. (2021). “Musculoskeletal involvement of COVID-19: review of imaging”. In: Skeletal radiology 50, pp. 1763–1773.
+
+[29] Salway, RJ et al. (2017). “Emergency department (ED) overcrowding: evidence-based answers to frequently asked questions”. In: Revista Medica Clinica Las Condes 28.2, pp. 213–219.
+
+[30] St, Lars, Svante Wold, et al. (1989). “Analysis of variance (ANOVA)”. In: Chemometrics and intelligent laboratory systems 6.4, pp. 259–272.
+
+[31] Tennison, Imogen et al. (2021). “Health care’s response to climate change: a carbon footprint assessment of the NHS in England”. In: The Lancet Planetary Health 5.2, e84–e92.
+
+[32] Thinsungnoena, Tippaya et al. (2015). “The clustering validity with silhouette and sum of squared errors”. In: learning 3.7.
+
+[33] UK Government (2023). COVID-19 Deaths in the UK. Accessed on: September 1, 2023. url: https://coronavirus.data.gov.uk/details/deaths.
+
+[34] Virtanen, Pauli et al. (2020). “SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python”. In: Nature Methods 17, pp. 261–272. doi: 10.1038/s41592-019-0686-2.
+
+[35] Vos, Nelis J. de (2021). kmodes categorical clustering library. https://github.com/nicodv/ kmodes.
+
+[36] Vranas, Kelly C et al. (2017). “Identifying distinct subgroups of intensive care unit patients: A machine learning approach”. In: Critical care medicine 45.10, p. 1607.
